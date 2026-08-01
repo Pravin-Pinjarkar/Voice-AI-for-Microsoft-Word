@@ -39,9 +39,5 @@ Voice AI for Microsoft Word is an AI-powered desktop application developed in Py
 ##  Future Enhancements
 
 - Multi-language voice support
-- Voice-controlled Excel and PowerPoint editing
-- PDF generation and editing
 - Cloud document synchronization
-- AI-powered grammar and plagiarism checking
-- Custom voice assistant commands
 
